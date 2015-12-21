@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "imgcache.js": "git@github.com:septembermd/imgcache.js.git#master"
+    "imgcache.js": "https://github.com/chrisben/imgcache.js.git#master"
   }
 }
